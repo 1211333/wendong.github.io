@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 38a83336c08928b0ca0c
+  clientSecret: a4873da14d493a77653988fd4b1e7e9ffc46afa8
   repo: lemonchann.github.io
   owner: lemonchann
 
